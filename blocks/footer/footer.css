@@ -2,7 +2,6 @@
   display: flex;
   justify-content: space-between;
   margin: 92px auto 0;
-  margin-top: 100px;
   max-width: 1184px;
   padding-bottom: 24px;
 }
@@ -10,7 +9,6 @@
 @media screen and (max-width: 1279px) {
   .footer {
     max-width: 928px;
-    margin-top: 92px;
   }
 }
 
